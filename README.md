@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Project links tutorial
+Odin Project tutorial for basic linked website with just html.
